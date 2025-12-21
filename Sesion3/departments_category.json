@@ -1,0 +1,338 @@
+[
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":1,
+        "category_department_id":2,
+        "category_name":"Football"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":2,
+        "category_department_id":2,
+        "category_name":"Soccer"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":3,
+        "category_department_id":2,
+        "category_name":"Baseball & Softball"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":4,
+        "category_department_id":2,
+        "category_name":"Basketball"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":5,
+        "category_department_id":2,
+        "category_name":"Lacrosse"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":6,
+        "category_department_id":2,
+        "category_name":"Tennis & Racquet"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":7,
+        "category_department_id":2,
+        "category_name":"Hockey"
+    },
+    {
+        "department_id":2,
+        "department_name":"Fitness",
+        "category_id":8,
+        "category_department_id":2,
+        "category_name":"More Sports"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":9,
+        "category_department_id":3,
+        "category_name":"Cardio Equipment"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":10,
+        "category_department_id":3,
+        "category_name":"Strength Training"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":11,
+        "category_department_id":3,
+        "category_name":"Fitness Accessories"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":12,
+        "category_department_id":3,
+        "category_name":"Boxing & MMA"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":13,
+        "category_department_id":3,
+        "category_name":"Electronics"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":14,
+        "category_department_id":3,
+        "category_name":"Yoga & Pilates"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":15,
+        "category_department_id":3,
+        "category_name":"Training by Sport"
+    },
+    {
+        "department_id":3,
+        "department_name":"Footwear",
+        "category_id":16,
+        "category_department_id":3,
+        "category_name":"As Seen on  TV!"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":17,
+        "category_department_id":4,
+        "category_name":"Cleats"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":18,
+        "category_department_id":4,
+        "category_name":"Men's Footwear"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":19,
+        "category_department_id":4,
+        "category_name":"Women's Footwear"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":20,
+        "category_department_id":4,
+        "category_name":"Kids' Footwear"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":21,
+        "category_department_id":4,
+        "category_name":"Featured Shops"
+    },
+    {
+        "department_id":4,
+        "department_name":"Apparel",
+        "category_id":22,
+        "category_department_id":4,
+        "category_name":"Accessories"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":23,
+        "category_department_id":5,
+        "category_name":"Men's Apparel"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":24,
+        "category_department_id":5,
+        "category_name":"Women's Apparel"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":25,
+        "category_department_id":5,
+        "category_name":"Boys' Apparel"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":26,
+        "category_department_id":5,
+        "category_name":"Girls' Apparel"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":27,
+        "category_department_id":5,
+        "category_name":"Accessories"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":28,
+        "category_department_id":5,
+        "category_name":"Top Brands"
+    },
+    {
+        "department_id":5,
+        "department_name":"Golf",
+        "category_id":29,
+        "category_department_id":5,
+        "category_name":"Shop By Sport"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":30,
+        "category_department_id":6,
+        "category_name":"Men's Golf Clubs"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":31,
+        "category_department_id":6,
+        "category_name":"Women's Golf Clubs"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":32,
+        "category_department_id":6,
+        "category_name":"Golf Apparel"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":33,
+        "category_department_id":6,
+        "category_name":"Golf Shoes"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":34,
+        "category_department_id":6,
+        "category_name":"Golf Bags & Carts"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":35,
+        "category_department_id":6,
+        "category_name":"Golf Gloves"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":36,
+        "category_department_id":6,
+        "category_name":"Golf Balls"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":37,
+        "category_department_id":6,
+        "category_name":"Electronics"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":38,
+        "category_department_id":6,
+        "category_name":"Kids' Golf Clubs"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":39,
+        "category_department_id":6,
+        "category_name":"Team Shop"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":40,
+        "category_department_id":6,
+        "category_name":"Accessories"
+    },
+    {
+        "department_id":6,
+        "department_name":"Outdoors",
+        "category_id":41,
+        "category_department_id":6,
+        "category_name":"Trade-In"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":42,
+        "category_department_id":7,
+        "category_name":"Bike & Skate Shop"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":43,
+        "category_department_id":7,
+        "category_name":"Camping & Hiking"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":44,
+        "category_department_id":7,
+        "category_name":"Hunting & Shooting"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":45,
+        "category_department_id":7,
+        "category_name":"Fishing"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":46,
+        "category_department_id":7,
+        "category_name":"Indoor\/Outdoor Games"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":47,
+        "category_department_id":7,
+        "category_name":"Boating"
+    },
+    {
+        "department_id":7,
+        "department_name":"Fan Shop",
+        "category_id":48,
+        "category_department_id":7,
+        "category_name":"Water Sports"
+    }
+]
