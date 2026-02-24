@@ -1,0 +1,101 @@
+tienda,producto,categoria,marca,estado,precio,stock,descuento_porcentaje,puntuacion_usuarios
+CompraGamer,GeForce RTX 4060 Ti,Placas de Video,NVIDIA,nuevo,620000.0,12,10,4.8
+Mercado Libre,Ryzen 7 5700X,Procesador,AMD,nuevo,310000.0,8,0,4.9
+FullH4rd,Monitor Samsung Odyssey G4 240Hz,Monitores,Samsung,nuevo,580000.0,4,15,4.5
+Venex,Teclado Logitech G Pro KDA,Periféricos,Logitech,nuevo,115000.0,25,5,4.7
+Gezatek,Gabinete Corsair 4000D Airflow,Gabinete,Corsair,usado,145000.0,3,0,4.2
+CompraGamer,Radeon RX 7800 XT,Placas de Video,AMD,nuevo,980000.0,15,10,4.6
+Mercado Libre,Intel Core i5-13600K,Procesador,Intel,nuevo,420000.0,6,0,4.9
+FullH4rd,SSD WD Black 1TB NVMe,Almacenamiento,Western Digital,nuevo,135000.0,40,15,4.8
+Venex,Fuente EVGA 750W Gold,Fuentes,EVGA,nuevo,185000.0,18,5,4.4
+Gezatek,Mouse Razer DeathAdder V3,Periféricos,Razer,usado,95000.0,50,0,4.7
+CompraGamer,GeForce RTX 4070 Super,Placas de Video,NVIDIA,nuevo,1250000.0,5,10,4.8
+Mercado Libre,Ryzen 5 7600,Procesador,AMD,nuevo,340000.0,9,0,4.5
+FullH4rd,Motherboard ASUS B650-PLUS,Motherboard,ASUS,nuevo,290000.0,11,15,4.3
+Venex,RAM Kingston Fury 32GB (2x16),Memorias,Kingston,nuevo,180000.0,30,5,4.8
+Gezatek,Watercooling Cooler Master 240mm,Refrigeración,Cooler Master,usado,155000.0,7,0,4.5
+CompraGamer,Radeon RX 7600,Placas de Video,AMD,nuevo,490000.0,20,10,4.4
+Mercado Libre,Intel Core i9-14900K,Procesador,Intel,nuevo,950000.0,2,0,5.0
+FullH4rd,"Monitor LG UltraGear 27""",Monitores,LG,nuevo,440000.0,8,15,4.6
+Venex,Teclado Redragon Kumara K552,Periféricos,Redragon,nuevo,45000.0,100,5,4.2
+Gezatek,Gabinete Lian Li O11 Dynamic,Gabinete,Lian Li,usado,220000.0,4,0,4.9
+CompraGamer,GeForce RTX 4060 Ti,Placas de Video,NVIDIA,nuevo,620000.0,12,10,4.8
+Mercado Libre,Ryzen 7 5700X,Procesador,AMD,nuevo,310000.0,8,0,4.9
+FullH4rd,Monitor Samsung Odyssey G4 240Hz,Monitores,Samsung,nuevo,580000.0,4,15,4.5
+Venex,Teclado Logitech G Pro KDA,Periféricos,Logitech,nuevo,115000.0,25,5,4.7
+Gezatek,Gabinete Corsair 4000D Airflow,Gabinete,Corsair,usado,145000.0,3,0,4.2
+CompraGamer,Radeon RX 7800 XT,Placas de Video,AMD,nuevo,980000.0,15,10,4.6
+Mercado Libre,Intel Core i5-13600K,Procesador,Intel,nuevo,420000.0,6,0,4.9
+FullH4rd,SSD WD Black 1TB NVMe,Almacenamiento,Western Digital,nuevo,135000.0,40,15,4.8
+Venex,Fuente EVGA 750W Gold,Fuentes,EVGA,nuevo,185000.0,18,5,4.4
+Gezatek,Mouse Razer DeathAdder V3,Periféricos,Razer,usado,95000.0,50,0,4.7
+CompraGamer,GeForce RTX 4070 Super,Placas de Video,NVIDIA,nuevo,1250000.0,5,10,4.8
+Mercado Libre,Ryzen 5 7600,Procesador,AMD,nuevo,340000.0,9,0,4.5
+FullH4rd,Motherboard ASUS B650-PLUS,Motherboard,ASUS,nuevo,290000.0,11,15,4.3
+Venex,RAM Kingston Fury 32GB (2x16),Memorias,Kingston,nuevo,180000.0,30,5,4.8
+Gezatek,Watercooling Cooler Master 240mm,Refrigeración,Cooler Master,usado,155000.0,7,0,4.5
+CompraGamer,Radeon RX 7600,Placas de Video,AMD,nuevo,490000.0,20,10,4.4
+Mercado Libre,Intel Core i9-14900K,Procesador,Intel,nuevo,950000.0,2,0,5.0
+FullH4rd,"Monitor LG UltraGear 27""",Monitores,LG,nuevo,440000.0,8,15,4.6
+Venex,Teclado Redragon Kumara K552,Periféricos,Redragon,nuevo,45000.0,100,5,4.2
+Gezatek,Gabinete Lian Li O11 Dynamic,Gabinete,Lian Li,usado,220000.0,4,0,4.9
+CompraGamer,GeForce RTX 4060 Ti,Placas de Video,NVIDIA,nuevo,620000.0,12,10,4.8
+Mercado Libre,Ryzen 7 5700X,Procesador,AMD,nuevo,310000.0,8,0,4.9
+FullH4rd,Monitor Samsung Odyssey G4 240Hz,Monitores,Samsung,nuevo,580000.0,4,15,4.5
+Venex,Teclado Logitech G Pro KDA,Periféricos,Logitech,nuevo,115000.0,25,5,4.7
+Gezatek,Gabinete Corsair 4000D Airflow,Gabinete,Corsair,usado,145000.0,3,0,4.2
+CompraGamer,Radeon RX 7800 XT,Placas de Video,AMD,nuevo,980000.0,15,10,4.6
+Mercado Libre,Intel Core i5-13600K,Procesador,Intel,nuevo,420000.0,6,0,4.9
+FullH4rd,SSD WD Black 1TB NVMe,Almacenamiento,Western Digital,nuevo,135000.0,40,15,4.8
+Venex,Fuente EVGA 750W Gold,Fuentes,EVGA,nuevo,185000.0,18,5,4.4
+Gezatek,Mouse Razer DeathAdder V3,Periféricos,Razer,usado,95000.0,50,0,4.7
+CompraGamer,GeForce RTX 4070 Super,Placas de Video,NVIDIA,nuevo,1250000.0,5,10,4.8
+Mercado Libre,Ryzen 5 7600,Procesador,AMD,nuevo,340000.0,9,0,4.5
+FullH4rd,Motherboard ASUS B650-PLUS,Motherboard,ASUS,nuevo,290000.0,11,15,4.3
+Venex,RAM Kingston Fury 32GB (2x16),Memorias,Kingston,nuevo,180000.0,30,5,4.8
+Gezatek,Watercooling Cooler Master 240mm,Refrigeración,Cooler Master,usado,155000.0,7,0,4.5
+CompraGamer,Radeon RX 7600,Placas de Video,AMD,nuevo,490000.0,20,10,4.4
+Mercado Libre,Intel Core i9-14900K,Procesador,Intel,nuevo,950000.0,2,0,5.0
+FullH4rd,"Monitor LG UltraGear 27""",Monitores,LG,nuevo,440000.0,8,15,4.6
+Venex,Teclado Redragon Kumara K552,Periféricos,Redragon,nuevo,45000.0,100,5,4.2
+Gezatek,Gabinete Lian Li O11 Dynamic,Gabinete,Lian Li,usado,220000.0,4,0,4.9
+CompraGamer,GeForce RTX 4060 Ti,Placas de Video,NVIDIA,nuevo,620000.0,12,10,4.8
+Mercado Libre,Ryzen 7 5700X,Procesador,AMD,nuevo,310000.0,8,0,4.9
+FullH4rd,Monitor Samsung Odyssey G4 240Hz,Monitores,Samsung,nuevo,580000.0,4,15,4.5
+Venex,Teclado Logitech G Pro KDA,Periféricos,Logitech,nuevo,115000.0,25,5,4.7
+Gezatek,Gabinete Corsair 4000D Airflow,Gabinete,Corsair,usado,145000.0,3,0,4.2
+CompraGamer,Radeon RX 7800 XT,Placas de Video,AMD,nuevo,980000.0,15,10,4.6
+Mercado Libre,Intel Core i5-13600K,Procesador,Intel,nuevo,420000.0,6,0,4.9
+FullH4rd,SSD WD Black 1TB NVMe,Almacenamiento,Western Digital,nuevo,135000.0,40,15,4.8
+Venex,Fuente EVGA 750W Gold,Fuentes,EVGA,nuevo,185000.0,18,5,4.4
+Gezatek,Mouse Razer DeathAdder V3,Periféricos,Razer,usado,95000.0,50,0,4.7
+CompraGamer,GeForce RTX 4070 Super,Placas de Video,NVIDIA,nuevo,1250000.0,5,10,4.8
+Mercado Libre,Ryzen 5 7600,Procesador,AMD,nuevo,340000.0,9,0,4.5
+FullH4rd,Motherboard ASUS B650-PLUS,Motherboard,ASUS,nuevo,290000.0,11,15,4.3
+Venex,RAM Kingston Fury 32GB (2x16),Memorias,Kingston,nuevo,180000.0,30,5,4.8
+Gezatek,Watercooling Cooler Master 240mm,Refrigeración,Cooler Master,usado,155000.0,7,0,4.5
+CompraGamer,Radeon RX 7600,Placas de Video,AMD,nuevo,490000.0,20,10,4.4
+Mercado Libre,Intel Core i9-14900K,Procesador,Intel,nuevo,950000.0,2,0,5.0
+FullH4rd,"Monitor LG UltraGear 27""",Monitores,LG,nuevo,440000.0,8,15,4.6
+Venex,Teclado Redragon Kumara K552,Periféricos,Redragon,nuevo,45000.0,100,5,4.2
+Gezatek,Gabinete Lian Li O11 Dynamic,Gabinete,Lian Li,usado,220000.0,4,0,4.9
+CompraGamer,GeForce RTX 4060 Ti,Placas de Video,NVIDIA,nuevo,620000.0,12,10,4.8
+Mercado Libre,Ryzen 7 5700X,Procesador,AMD,nuevo,310000.0,8,0,4.9
+FullH4rd,Monitor Samsung Odyssey G4 240Hz,Monitores,Samsung,nuevo,580000.0,4,15,4.5
+Venex,Teclado Logitech G Pro KDA,Periféricos,Logitech,nuevo,115000.0,25,5,4.7
+Gezatek,Gabinete Corsair 4000D Airflow,Gabinete,Corsair,usado,145000.0,3,0,4.2
+CompraGamer,Radeon RX 7800 XT,Placas de Video,AMD,nuevo,980000.0,15,10,4.6
+Mercado Libre,Intel Core i5-13600K,Procesador,Intel,nuevo,420000.0,6,0,4.9
+FullH4rd,SSD WD Black 1TB NVMe,Almacenamiento,Western Digital,nuevo,135000.0,40,15,4.8
+Venex,Fuente EVGA 750W Gold,Fuentes,EVGA,nuevo,185000.0,18,5,4.4
+Gezatek,Mouse Razer DeathAdder V3,Periféricos,Razer,usado,95000.0,50,0,4.7
+CompraGamer,GeForce RTX 4070 Super,Placas de Video,NVIDIA,nuevo,1250000.0,5,10,4.8
+Mercado Libre,Ryzen 5 7600,Procesador,AMD,nuevo,340000.0,9,0,4.5
+FullH4rd,Motherboard ASUS B650-PLUS,Motherboard,ASUS,nuevo,290000.0,11,15,4.3
+Venex,RAM Kingston Fury 32GB (2x16),Memorias,Kingston,nuevo,180000.0,30,5,4.8
+Gezatek,Watercooling Cooler Master 240mm,Refrigeración,Cooler Master,usado,155000.0,7,0,4.5
+CompraGamer,Radeon RX 7600,Placas de Video,AMD,nuevo,490000.0,20,10,4.4
+Mercado Libre,Intel Core i9-14900K,Procesador,Intel,nuevo,950000.0,2,0,5.0
+FullH4rd,"Monitor LG UltraGear 27""",Monitores,LG,nuevo,440000.0,8,15,4.6
+Venex,Teclado Redragon Kumara K552,Periféricos,Redragon,nuevo,45000.0,100,5,4.2
+Gezatek,Gabinete Lian Li O11 Dynamic,Gabinete,Lian Li,usado,220000.0,4,0,4.9
